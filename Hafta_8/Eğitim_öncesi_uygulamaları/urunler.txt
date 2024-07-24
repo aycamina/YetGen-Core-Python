@@ -1,0 +1,2 @@
+ad:şeker, fiyat:10
+ad:sakız, fiyat:5
